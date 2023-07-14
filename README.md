@@ -26,3 +26,17 @@ Skills: JS / HTML / CSS / PYTHON / JAVA / SHELL
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MR-CYBER404 )  
 
 ![Profile views](https://gpvc.arturio.dev/MR-CYBER404 )  
+
+
+VAU's GitHub Stats
+C
+Total Stars Earned:
+0
+Total Commits (2023):
+20
+Total PRs:
+0
+Total Issues:
+0
+Contributed to (last year):
+0
