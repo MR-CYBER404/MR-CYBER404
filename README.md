@@ -31,7 +31,7 @@ Skills: JS / HTML / CSS / PYTHON / JAVA / SHELL
 
 ![GitHub metrics](https://metrics.lecoq.io/MR-CYBER404 )  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MR-CYBER404 )  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Mr-Cyber404 )  
 
 ![Profile views](https://gpvc.arturio.dev/MR-CYBER404 )  
 
